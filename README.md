@@ -18,9 +18,10 @@ EN - Project carried out during my studies. It's an API for managing a blog.
 3. Run the following command: `docker-compose up -d` to install the DB
 (The first time it will take a little longer because it will download the images) 
 4. Run the following command: `npm install` to install the dependencies
-5. Run the following command: `npx prisma db seed ` to seed the DB
-6. Run the following command: `npm run start:dev` to start the project
-7. Go to `http://localhost:3000/api` to see the documentation
+5. Run the following command: `npx prisma migrate dev` to create the DB
+6. Run the following command: `npx prisma db seed ` to seed the DB
+7. Run the following command: `npm run start:dev` to start the project
+8. Go to `http://localhost:3000/api` to see the documentation
 
 
 ## Used technologies
