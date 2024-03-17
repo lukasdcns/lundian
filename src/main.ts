@@ -14,6 +14,7 @@ async function bootstrap() {
     .setTitle('Lundian')
     .setDescription('Lundian API Description')
     .setVersion('1.0')
+    .addBearerAuth()
     .build();
 
   const document = SwaggerModule.createDocument(app, config);
