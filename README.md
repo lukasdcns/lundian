@@ -8,7 +8,6 @@
 ## Description
 
 Description
-FR - Projet réalisé lors de mes études. Il s'agit d'une API permettant d'ajouter et de supprimer des vidéos dans une bibliothèque, avec la possibilité de les lire dans le navigateur.
+FR - Projet réalisé pendant mes études. Il s'agit d'une API pour la gestion d'un blog.
 
-EN - Project carried out during my studies. It's an API that allows adding and removing videos from a library with the ability to play them in the browser.
-Nest is [MIT licensed](LICENSE).
+EN - Project carried out during my studies. It's an API for managing a blog.
