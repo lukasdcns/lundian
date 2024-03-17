@@ -7,7 +7,6 @@
 
 ## Description
 
-Description
 FR - Projet réalisé pendant mes études. Il s'agit d'une API pour la gestion d'un blog.
 
 EN - Project carried out during my studies. It's an API for managing a blog.
