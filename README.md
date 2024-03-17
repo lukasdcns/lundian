@@ -29,3 +29,4 @@ EN - Project carried out during my studies. It's an API for managing a blog.
 3. Docker (Containerization)
 4. PostgreSQL (Database)
 5. Swagger (Documentation)
+6. ValidationPipe (Validation)
